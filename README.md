@@ -68,7 +68,7 @@ node_modules/bootstrap/dist/js/bootstrap.js in the projects->architect->build->s
 
 As follows:
 
-![screen]()
+![screen](https://github.com/Anna-Myzukina/password_generator_angular/blob/main/screen1.PNG)
 
 ## Step 3 (Method 2) — Adding Bootstrap 4 to Angular 10 Using index.html
 
