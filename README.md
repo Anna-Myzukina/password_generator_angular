@@ -11,7 +11,7 @@ This project was generated with:
 
 ### Try Live version:
 
-- [!sc](https://password-generator-angular-one.vercel.app/)
+- [ ] [first](https://password-generator-angular-one.vercel.app/)
 - [ ] [second](password-generator-angular.anna-myzukina.vercel.app)
 - [ ] [third](password-generator-angular-git-main.anna-myzukina.vercel.app)
 
