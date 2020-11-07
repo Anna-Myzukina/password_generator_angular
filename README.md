@@ -11,9 +11,9 @@ This project was generated with:
 
 ### Try Live version:
 
-- [ ] [first](https://password-generator-angular-one.vercel.app/)
-- [ ] [second](password-generator-angular.anna-myzukina.vercel.app)
-- [ ] [third](password-generator-angular-git-main.anna-myzukina.vercel.app)
+- [ ] [Password Generator first live version](https://password-generator-angular-one.vercel.app/)
+- [ ] [Password Generator live versio second](https://password-generator-angular.anna-myzukina.vercel.app)
+- [ ] [Password Generator live versio third](https://password-generator-angular-git-main.anna-myzukina.vercel.app)
 
 ## [3+ Ways to Add Bootstrap 4 to Angular](https://www.techiediaries.com/angular-bootstrap/)
 
