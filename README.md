@@ -1,6 +1,6 @@
 # Pw Password Generator
 
-![screen](https://github.com/Anna-Myzukina/password_generator_angular/blob/main/4lh8q7.gif)
+![screen](https://github.com/Anna-Myzukina/password_generator_angular/blob/main/4lhaio.gif)
 
 This project was generated with:
 * [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
