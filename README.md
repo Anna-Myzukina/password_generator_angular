@@ -6,6 +6,15 @@ This project was generated with:
 * [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 * [Bootstrap](https://getbootstrap.com/) version 4.5.3
+
+* Deploying Angular app with [vercel.com](https://vercel.com/) (*early it was now.sh)
+
+### Try Live version:
+
+[!screen](password-generator-angular-one.vercel.app)
+[!screen](password-generator-angular.anna-myzukina.vercel.app)
+[!screen](password-generator-angular-git-main.anna-myzukina.vercel.app)
+
 ## [3+ Ways to Add Bootstrap 4 to Angular](https://www.techiediaries.com/angular-bootstrap/)
 
 ## Step 1 — Installing Angular CLI v10
